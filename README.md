@@ -1,10 +1,5 @@
 # Análisis Funcional — Primer cuatrimestre de 2012
 
-## Equipo docente
-
-- **Clases teóricas:** Pablo De Napoli
-- **Clases prácticas:** Daniel Galicer, Marcos Cossarini
-
 ## Prácticas
 
 - [Práctica 1 - Espacios de Banach.](practica1.pdf)
